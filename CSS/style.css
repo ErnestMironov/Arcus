@@ -1247,6 +1247,9 @@ tr td:last-child {
   body {
     overflow-x: hidden;
   }
+  .call_me_form_phone {
+    font-size: 10px;
+  }
   .container {
     width: 350px;
   }
