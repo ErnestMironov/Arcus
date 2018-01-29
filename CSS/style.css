@@ -6,7 +6,8 @@ html {
   margin: 0;
 }
 input,
-textarea {
+textarea,
+button {
   outline: none !important;
 }
 a:active,
